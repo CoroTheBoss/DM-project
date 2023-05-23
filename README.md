@@ -1,3 +1,3 @@
-# CS-project
-project for Foundation of Computer Science
-+ Matteo Corona - Costanza Pagnin - Marco Guarisco - Salvatore Rastelli
+# DM-project
+project for Data Management
++ Matteo Corona - Costanza Pagnin - Francesca Corvino
