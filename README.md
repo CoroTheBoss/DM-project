@@ -1,5 +1,5 @@
 # DM-project
-project for Data Management
+Data Management project
 + Matteo Corona - Costanza Pagnin - Francesca Corvino
 
 SUDDIVISIONE DEL LAVORO:
